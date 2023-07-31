@@ -4,4 +4,8 @@ In this repo you can find different scripts to get different assests from logz.i
    ```
    python3 logsalerts.py
    ```
-3.
+2. Kibana dashboards:
+   ```
+   python3 ndjon_to_json.py
+   ```
+   
